@@ -1,0 +1,38 @@
+.page-container {
+  background: #f4f4f4; }
+
+.header,
+.footer {
+  background: #65bad3;
+  color: #fff;
+  text-align: center;
+  padding: 1.5rem; }
+
+.header__title {
+  font-size: 2.5rem;
+  margin-bottom: 0; }
+
+.header__subtitle {
+  font-size: 1.5rem;
+  font-weight: normal; }
+
+.main__title {
+  color: #65bad3;
+  text-align: center;
+  margin: 2rem; }
+  .main__title h2 {
+    font-weight: normal; }
+  .main__title h3 {
+    font-size: 2.25rem; }
+
+.jobs-list__item__container {
+  background: #fff;
+  color: #284a54;
+  margin-bottom: 1.75rem;
+  padding: 1rem 1.5rem;
+  -webkit-box-shadow: 0px 10px 10px -5px #505050;
+  -moz-box-shadow: 0px 10px 10px -5px #505050;
+  box-shadow: 0px 10px 10px -5px #505050; }
+
+.jobs-list__item__title {
+  text-align: center; }
